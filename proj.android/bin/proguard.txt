@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:52
+-keep class app42.push.coco.App42GCMReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class app42.push.coco.App42GCMService { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class app42.push.coco.AppActivity { <init>(...); }
+
